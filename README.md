@@ -1,5 +1,5 @@
 # undress-design
-AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows.
+AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design
 
 <img width="1672" height="941" alt="53f95a97-f25d-4a38-9602-ab42e3d0e3c3" src="https://github.com/user-attachments/assets/e57046e9-81af-4993-aee4-a023edc48f3a" />
 
