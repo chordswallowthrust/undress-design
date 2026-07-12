@@ -24,8 +24,11 @@ The project is intended for designers, developers, creative teams, and researche
 
 Learn more and try the platform:
 
-[Open Undress Design](https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design)
-
+<p align="center">
+  <a href="https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_Website-FF4F7B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website">
+  </a>
+</p>
 
 ## 🛡️ Responsible Use
 
