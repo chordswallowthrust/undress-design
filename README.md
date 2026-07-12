@@ -1,4 +1,4 @@
-# undress-design
+<img width="420" height="88" alt="assetsbutton" src="https://github.com/user-attachments/assets/8f870d03-2ee7-467e-a9d4-ac5469de813c" /># undress-design
 AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design
 
 <img width="1672" height="941" alt="53f95a97-f25d-4a38-9602-ab42e3d0e3c3" src="https://github.com/user-attachments/assets/e57046e9-81af-4993-aee4-a023edc48f3a" />
@@ -24,11 +24,30 @@ The project is intended for designers, developers, creative teams, and researche
 
 Learn more and try the platform:
 
+![Uplo<svg width="420" height="88" viewBox="0 0 420 88" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#FF5A8B"></stop>
+      <stop offset="100%" stop-color="#E11D5A"></stop>
+    </linearGradient>
+
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#E11D5A" flood-opacity="0.35"></feDropShadow>
+    </filter>
+  </defs>
+
+  <rect x="5" y="5" width="410" height="78" rx="20" fill="url(#grad)" filter="url(#shadow)"></rect>
+
+  <text x="210" y="54" text-anchor="middle" fill="white" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700">
+      ✨ TRY UNDRESS DESIGN
+  </text>
+</svg>ading assetsbutton.svg…]()
 <p align="center">
-  <a href="https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_Website-FF4F7B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website">
+  <a href="https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design">
+    <img src="assetsbutton.svg" width="420" alt="Try Undress Design">
   </a>
 </p>
+
 
 ## 🛡️ Responsible Use
 
