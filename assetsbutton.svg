@@ -1,0 +1,18 @@
+<svg width="420" height="88" viewBox="0 0 420 88" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#FF5A8B"></stop>
+      <stop offset="100%" stop-color="#E11D5A"></stop>
+    </linearGradient>
+
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#E11D5A" flood-opacity="0.35"></feDropShadow>
+    </filter>
+  </defs>
+
+  <rect x="5" y="5" width="410" height="78" rx="20" fill="url(#grad)" filter="url(#shadow)"></rect>
+
+  <text x="210" y="54" text-anchor="middle" fill="white" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700">
+      ✨ TRY UNDRESS DESIGN
+  </text>
+</svg>
